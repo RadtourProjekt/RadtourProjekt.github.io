@@ -45,9 +45,11 @@ L.control.scale({
 
 //Strecke Gesamt
 let controlElevation = L.control.elevation({
-    theme: "bike-tirol",
+    theme: "bike-vorarlberg",
     time: false,
     elevationDiv: "#profile",
     height: 300,
 }).addTo(map);
 controlElevation.load("../data/gesamtetappe.gpx");
+
+//Etappennavigation für die 3 Einzeletappen mit Pulldownmenü
