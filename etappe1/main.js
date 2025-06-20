@@ -43,7 +43,7 @@ L.control.scale({
     imperial: false,
 }).addTo(map);
 
-//Strecke Gesamt
+//Etappe 1
 let controlElevation = L.control.elevation({
     theme: "bike-tirol",
     time: false,
