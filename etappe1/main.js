@@ -51,7 +51,7 @@ L.control.scale({
     imperial: false,
 }).addTo(map);
 
-// Haltestellen Wien
+// Einkaufszentren Vorarlberg
 async function loadShops(url) { // funktion wird definiert
     //console.log(url);
 
