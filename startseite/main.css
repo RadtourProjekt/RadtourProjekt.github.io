@@ -43,5 +43,6 @@ figure img {
 }
 
 figcaption {
-    margin:auto
+  font-weight: bold;
+  margin: auto
 }
