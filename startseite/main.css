@@ -53,3 +53,23 @@ h3 {
     justify-content:center;
     text-align: center;
 }
+
+.etappen-button {
+    padding: 0.75em 4.5em;
+    font-size: 1.1rem;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.2s ease;
+}
+
+.etappen-button-start {
+    padding: 0.75em 4.5em;
+    font-size: 1.1rem;
+    background-color: purple;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.2s ease;
+}
