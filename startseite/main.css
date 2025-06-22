@@ -2,6 +2,7 @@
 
 header>img {
     max-width: 100%;
+    
 }
 
 header img {
@@ -12,6 +13,11 @@ header img {
 
 body {
     font-family: "Open Sans", sans-serif;
+}
+
+main {
+    max-width: 1200px;
+    margin: auto;
 }
 
 .swiper {
