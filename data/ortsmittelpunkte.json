@@ -1,0 +1,2703 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.0",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-41531.359375, 272332.5625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 1,
+        "ort_mitt_i": 1,
+        "x_coord": -41531.4,
+        "y_coord": 272333,
+        "pgem_name": "Hohenweiler",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "19",
+        "pgem_gesnr": 80219,
+        "einwohner": 1247,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.1",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-38773.53125, 269300.09375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 2,
+        "ort_mitt_i": 2,
+        "x_coord": -38773.5,
+        "y_coord": 269300,
+        "pgem_name": "Möggers",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "29",
+        "pgem_gesnr": 80229,
+        "einwohner": 561,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.2",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-43672.51953125, 268709.75]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 3,
+        "ort_mitt_i": 3,
+        "x_coord": -43672.5,
+        "y_coord": 268710,
+        "pgem_name": "Hörbranz",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "18",
+        "pgem_gesnr": 80218,
+        "einwohner": 6153,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.3",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-41658.87109375, 266540.3125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 4,
+        "ort_mitt_i": 4,
+        "x_coord": -41658.9,
+        "y_coord": 266540,
+        "pgem_name": "Eichenberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "12",
+        "pgem_gesnr": 80212,
+        "einwohner": 384,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.4",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-43764.328125, 265824.15625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 5,
+        "ort_mitt_i": 7,
+        "x_coord": -43764.3,
+        "y_coord": 265824,
+        "pgem_name": "Lochau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "26",
+        "pgem_gesnr": 80226,
+        "einwohner": 5242,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.5",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-31674.18945312, 264774.625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 6,
+        "ort_mitt_i": 5,
+        "x_coord": -31674.2,
+        "y_coord": 264775,
+        "pgem_name": "Sulzberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "38",
+        "pgem_gesnr": 80238,
+        "einwohner": 1722,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.6",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-37858.05078125, 263462.5]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 7,
+        "ort_mitt_i": 6,
+        "x_coord": -37858.1,
+        "y_coord": 263463,
+        "pgem_name": "Langen",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "22",
+        "pgem_gesnr": 80222,
+        "einwohner": 1299,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.7",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-27790.16992187, 262965.65625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 8,
+        "ort_mitt_i": 8,
+        "x_coord": -27790.2,
+        "y_coord": 262966,
+        "pgem_name": "Riefensberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "31",
+        "pgem_gesnr": 80231,
+        "einwohner": 971,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.8",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-43917.9609375, 262770.15625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 9,
+        "ort_mitt_i": 9,
+        "x_coord": -43918,
+        "y_coord": 262770,
+        "pgem_name": "Bregenz",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "07",
+        "pgem_gesnr": 80207,
+        "einwohner": 26752,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.9",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-34156.08984375, 261657.375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 10,
+        "ort_mitt_i": 10,
+        "x_coord": -34156.1,
+        "y_coord": 261657,
+        "pgem_name": "Doren",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "10",
+        "pgem_gesnr": 80210,
+        "einwohner": 1002,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.10",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-48551.8515625, 261638.09375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 11,
+        "ort_mitt_i": 11,
+        "x_coord": -48551.9,
+        "y_coord": 261638,
+        "pgem_name": "Hard",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "15",
+        "pgem_gesnr": 80215,
+        "einwohner": 11471,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.11",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-29927.98046875, 260559.484375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 12,
+        "ort_mitt_i": 13,
+        "x_coord": -29928,
+        "y_coord": 260559,
+        "pgem_name": "Krumbach",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "21",
+        "pgem_gesnr": 80221,
+        "einwohner": 933,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.12",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-38760.71875, 260475.625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 13,
+        "ort_mitt_i": 16,
+        "x_coord": -38760.7,
+        "y_coord": 260476,
+        "pgem_name": "Buch",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "08",
+        "pgem_gesnr": 80208,
+        "einwohner": 558,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.13",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-50461.5390625, 260346.296875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 14,
+        "ort_mitt_i": 12,
+        "x_coord": -50461.5,
+        "y_coord": 260346,
+        "pgem_name": "Fußach",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "13",
+        "pgem_gesnr": 80213,
+        "einwohner": 3521,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.14",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-42717.87890625, 260330.609375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 15,
+        "ort_mitt_i": 17,
+        "x_coord": -42717.9,
+        "y_coord": 260331,
+        "pgem_name": "Kennelbach",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "20",
+        "pgem_gesnr": 80220,
+        "einwohner": 1961,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.15",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-45367.5, 259710.921875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 16,
+        "ort_mitt_i": 19,
+        "x_coord": -45367.5,
+        "y_coord": 259711,
+        "pgem_name": "Lauterach",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "24",
+        "pgem_gesnr": 80224,
+        "einwohner": 8678,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.16",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-43642.8203125, 259551.21875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 17,
+        "ort_mitt_i": 21,
+        "x_coord": -43642.8,
+        "y_coord": 259551,
+        "pgem_name": "Wolfurt",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "40",
+        "pgem_gesnr": 80240,
+        "einwohner": 7849,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.17",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-32971.6953125, 258936.40625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 18,
+        "ort_mitt_i": 22,
+        "x_coord": -32971.7,
+        "y_coord": 258936,
+        "pgem_name": "Langenegg",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "23",
+        "pgem_gesnr": 80223,
+        "einwohner": 1026,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.18",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-55394.28125, 258831.59375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 19,
+        "ort_mitt_i": 14,
+        "x_coord": -55394.3,
+        "y_coord": 258832,
+        "pgem_name": "Gaißau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "14",
+        "pgem_gesnr": 80214,
+        "einwohner": 1486,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.19",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-52344.12109375, 258141.84375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 20,
+        "ort_mitt_i": 15,
+        "x_coord": -52344.1,
+        "y_coord": 258142,
+        "pgem_name": "Höchst",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "17",
+        "pgem_gesnr": 80217,
+        "einwohner": 7096,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.20",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-42330.26953125, 257864.59375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 21,
+        "ort_mitt_i": 23,
+        "x_coord": -42330.3,
+        "y_coord": 257865,
+        "pgem_name": "Bildstein",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "05",
+        "pgem_gesnr": 80205,
+        "einwohner": 732,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.21",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-28165.36914062, 257671.5625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 22,
+        "ort_mitt_i": 20,
+        "x_coord": -28165.4,
+        "y_coord": 257672,
+        "pgem_name": "Hittisau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "16",
+        "pgem_gesnr": 80216,
+        "einwohner": 1802,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.22",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-37861.390625, 257060.5]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 23,
+        "ort_mitt_i": 18,
+        "x_coord": -37861.4,
+        "y_coord": 257061,
+        "pgem_name": "Alberschwende",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "01",
+        "pgem_gesnr": 80201,
+        "einwohner": 3021,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.23",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-31109.91992187, 256964.984375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 24,
+        "ort_mitt_i": 25,
+        "x_coord": -31109.9,
+        "y_coord": 256965,
+        "pgem_name": "Lingenau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "25",
+        "pgem_gesnr": 80225,
+        "einwohner": 1328,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.24",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-43030.640625, 256442.421875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 25,
+        "ort_mitt_i": 26,
+        "x_coord": -43030.6,
+        "y_coord": 256442,
+        "pgem_name": "Schwarzach",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "35",
+        "pgem_gesnr": 80235,
+        "einwohner": 3373,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.25",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-33017.1796875, 254877.109375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 26,
+        "ort_mitt_i": 27,
+        "x_coord": -33017.2,
+        "y_coord": 254877,
+        "pgem_name": "Egg",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "11",
+        "pgem_gesnr": 80211,
+        "einwohner": 3361,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.26",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-50827.859375, 254403.859375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 27,
+        "ort_mitt_i": 24,
+        "x_coord": -50827.9,
+        "y_coord": 254404,
+        "pgem_name": "Lustenau",
+        "pvbg_nr": "8",
+        "pbez_nr": "03",
+        "pgem_nr": "03",
+        "pgem_gesnr": 80303,
+        "einwohner": 19709,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.27",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-22264.8203125, 254243.3125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 28,
+        "ort_mitt_i": 29,
+        "x_coord": -22264.8,
+        "y_coord": 254243,
+        "pgem_name": "Sibratsgfäll",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "37",
+        "pgem_gesnr": 80237,
+        "einwohner": 422,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.28",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-44611.55078125, 252954.546875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 29,
+        "ort_mitt_i": 28,
+        "x_coord": -44611.6,
+        "y_coord": 252955,
+        "pgem_name": "Dornbirn",
+        "pvbg_nr": "8",
+        "pbez_nr": "03",
+        "pgem_nr": "01",
+        "pgem_gesnr": 80301,
+        "einwohner": 42301,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.29",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-36232.12109375, 252886.90625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 30,
+        "ort_mitt_i": 30,
+        "x_coord": -36232.1,
+        "y_coord": 252887,
+        "pgem_name": "Schwarzenberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "36",
+        "pgem_gesnr": 80236,
+        "einwohner": 1669,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.30",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-32979.390625, 252834.734375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 31,
+        "ort_mitt_i": 31,
+        "x_coord": -32979.4,
+        "y_coord": 252835,
+        "pgem_name": "Andelsbuch",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "02",
+        "pgem_gesnr": 80202,
+        "einwohner": 2287,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.31",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-32529.18945312, 249737.078125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 32,
+        "ort_mitt_i": 32,
+        "x_coord": -32529.2,
+        "y_coord": 249737,
+        "pgem_name": "Bezau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "04",
+        "pgem_gesnr": 80204,
+        "einwohner": 1878,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.32",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-33134.828125, 248177.09375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 33,
+        "ort_mitt_i": 35,
+        "x_coord": -33134.8,
+        "y_coord": 248177,
+        "pgem_name": "Reuthe",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "30",
+        "pgem_gesnr": 80230,
+        "einwohner": 586,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.33",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-30509.23046875, 247912.4375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 34,
+        "ort_mitt_i": 36,
+        "x_coord": -30509.2,
+        "y_coord": 247912,
+        "pgem_name": "Bizau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "06",
+        "pgem_gesnr": 80206,
+        "einwohner": 960,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.34",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-48559.83984375, 247415.453125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 35,
+        "ort_mitt_i": 33,
+        "x_coord": -48559.8,
+        "y_coord": 247415,
+        "pgem_name": "Hohenems",
+        "pvbg_nr": "8",
+        "pbez_nr": "03",
+        "pgem_nr": "02",
+        "pgem_gesnr": 80302,
+        "einwohner": 13891,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.35",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-11033.87011719, 246596.703125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 36,
+        "ort_mitt_i": 34,
+        "x_coord": -11033.9,
+        "y_coord": 246597,
+        "pgem_name": "Mittelberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "28",
+        "pgem_gesnr": 80228,
+        "einwohner": 4717,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.36",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-51497.921875, 246369.09375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 37,
+        "ort_mitt_i": 38,
+        "x_coord": -51497.9,
+        "y_coord": 246369,
+        "pgem_name": "Altach",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "01",
+        "pgem_gesnr": 80401,
+        "einwohner": 5704,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.37",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-29188.00195312, 245946.265625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 38,
+        "ort_mitt_i": 40,
+        "x_coord": -29188,
+        "y_coord": 245946,
+        "pgem_name": "Schnepfau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "32",
+        "pgem_gesnr": 80232,
+        "einwohner": 483,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.38",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-53609.828125, 245863.953125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 39,
+        "ort_mitt_i": 39,
+        "x_coord": -53609.8,
+        "y_coord": 245864,
+        "pgem_name": "Mäder",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "12",
+        "pgem_gesnr": 80412,
+        "einwohner": 3142,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.39",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-34084.9296875, 245804.015625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 40,
+        "ort_mitt_i": 37,
+        "x_coord": -34084.9,
+        "y_coord": 245804,
+        "pgem_name": "Mellau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "27",
+        "pgem_gesnr": 80227,
+        "einwohner": 1282,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.40",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-55074.828125, 244262.515625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 41,
+        "ort_mitt_i": 42,
+        "x_coord": -55074.8,
+        "y_coord": 244263,
+        "pgem_name": "Koblach",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "10",
+        "pgem_gesnr": 80410,
+        "einwohner": 3797,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.41",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-51976.80078125, 244137.8125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 42,
+        "ort_mitt_i": 41,
+        "x_coord": -51976.8,
+        "y_coord": 244138,
+        "pgem_name": "Götzis",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "08",
+        "pgem_gesnr": 80408,
+        "einwohner": 10097,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.42",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-26908.93945312, 242825.1875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 43,
+        "ort_mitt_i": 44,
+        "x_coord": -26908.9,
+        "y_coord": 242825,
+        "pgem_name": "Au",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "03",
+        "pgem_gesnr": 80203,
+        "einwohner": 1643,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.43",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-49892.26171875, 242044.671875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 44,
+        "ort_mitt_i": 45,
+        "x_coord": -49892.3,
+        "y_coord": 242045,
+        "pgem_name": "Fraxern",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "06",
+        "pgem_gesnr": 80406,
+        "einwohner": 674,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.44",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-51787.671875, 241709.515625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 45,
+        "ort_mitt_i": 46,
+        "x_coord": -51787.7,
+        "y_coord": 241710,
+        "pgem_name": "Klaus",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "09",
+        "pgem_gesnr": 80409,
+        "einwohner": 2792,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.45",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-23844.73046875, 241658.640625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 46,
+        "ort_mitt_i": 43,
+        "x_coord": -23844.7,
+        "y_coord": 241659,
+        "pgem_name": "Schoppernau",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "33",
+        "pgem_gesnr": 80233,
+        "einwohner": 905,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.46",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-51410.8203125, 240670.5]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 47,
+        "ort_mitt_i": 49,
+        "x_coord": -51410.8,
+        "y_coord": 240671,
+        "pgem_name": "Weiler",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "23",
+        "pgem_gesnr": 80423,
+        "einwohner": 1748,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.47",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-49589.6015625, 240645.515625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 48,
+        "ort_mitt_i": 47,
+        "x_coord": -49589.6,
+        "y_coord": 240646,
+        "pgem_name": "Viktorsberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "22",
+        "pgem_gesnr": 80422,
+        "einwohner": 378,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.48",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-57035.1484375, 240379.640625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 49,
+        "ort_mitt_i": 48,
+        "x_coord": -57035.1,
+        "y_coord": 240380,
+        "pgem_name": "Meiningen",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "13",
+        "pgem_gesnr": 80413,
+        "einwohner": 1872,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.49",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-51054.08984375, 239575.65625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 50,
+        "ort_mitt_i": 51,
+        "x_coord": -51054.1,
+        "y_coord": 239576,
+        "pgem_name": "Röthis",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "16",
+        "pgem_gesnr": 80416,
+        "einwohner": 1997,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.50",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-50742.390625, 238689.8125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 51,
+        "ort_mitt_i": 53,
+        "x_coord": -50742.4,
+        "y_coord": 238690,
+        "pgem_name": "Zwischenwasser",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "24",
+        "pgem_gesnr": 80424,
+        "einwohner": 3050,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.51",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-51346.078125, 238544.4375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 52,
+        "ort_mitt_i": 55,
+        "x_coord": -51346.1,
+        "y_coord": 238544,
+        "pgem_name": "Sulz",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "20",
+        "pgem_gesnr": 80420,
+        "einwohner": 2189,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.52",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-33477.55078125, 238066.765625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 53,
+        "ort_mitt_i": 50,
+        "x_coord": -33477.6,
+        "y_coord": 238067,
+        "pgem_name": "Damüls",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "09",
+        "pgem_gesnr": 80209,
+        "einwohner": 326,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.53",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-52146.1796875, 237013.890625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 54,
+        "ort_mitt_i": 52,
+        "x_coord": -52146.2,
+        "y_coord": 237014,
+        "pgem_name": "Rankweil",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "14",
+        "pgem_gesnr": 80414,
+        "einwohner": 11171,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.54",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-47702.01171875, 236540.5625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 55,
+        "ort_mitt_i": 54,
+        "x_coord": -47702,
+        "y_coord": 236541,
+        "pgem_name": "Laterns",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "11",
+        "pgem_gesnr": 80411,
+        "einwohner": 734,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.55",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-11439.1796875, 235593.5625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 56,
+        "ort_mitt_i": 58,
+        "x_coord": -11439.2,
+        "y_coord": 235594,
+        "pgem_name": "Warth",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "39",
+        "pgem_gesnr": 80239,
+        "einwohner": 203,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.56",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-18221.72070312, 235425.1875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 57,
+        "ort_mitt_i": 59,
+        "x_coord": -18221.7,
+        "y_coord": 235425,
+        "pgem_name": "Schröcken",
+        "pvbg_nr": "8",
+        "pbez_nr": "02",
+        "pgem_nr": "34",
+        "pgem_gesnr": 80234,
+        "einwohner": 233,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.57",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-50136.609375, 235146.3125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 58,
+        "ort_mitt_i": 62,
+        "x_coord": -50136.6,
+        "y_coord": 235146,
+        "pgem_name": "Übersaxen",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "21",
+        "pgem_gesnr": 80421,
+        "einwohner": 567,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.58",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-32081.6796875, 234390.953125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 59,
+        "ort_mitt_i": 57,
+        "x_coord": -32081.7,
+        "y_coord": 234391,
+        "pgem_name": "Fontanella",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "09",
+        "pgem_gesnr": 80109,
+        "einwohner": 473,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.59",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-55627.87109375, 233511.5]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 60,
+        "ort_mitt_i": 56,
+        "x_coord": -55627.9,
+        "y_coord": 233512,
+        "pgem_name": "Feldkirch",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "04",
+        "pgem_gesnr": 80404,
+        "einwohner": 28607,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.60",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-33078.46875, 233330.3125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 61,
+        "ort_mitt_i": 60,
+        "x_coord": -33078.5,
+        "y_coord": 233330,
+        "pgem_name": "Sonntag",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "24",
+        "pgem_gesnr": 80124,
+        "einwohner": 723,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.61",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-53045.08984375, 233274.703125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 62,
+        "ort_mitt_i": 64,
+        "x_coord": -53045.1,
+        "y_coord": 233275,
+        "pgem_name": "Göfis",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "07",
+        "pgem_gesnr": 80407,
+        "einwohner": 2862,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.62",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-46176, 232959]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 63,
+        "ort_mitt_i": 67,
+        "x_coord": -46176,
+        "y_coord": 232959,
+        "pgem_name": "Dünserberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "03",
+        "pgem_gesnr": 80403,
+        "einwohner": 147,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.63",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-50063.98828125, 232025.125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 64,
+        "ort_mitt_i": 66,
+        "x_coord": -50064,
+        "y_coord": 232025,
+        "pgem_name": "Satteins",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "17",
+        "pgem_gesnr": 80417,
+        "einwohner": 2435,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.64",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-37838.640625, 231689.296875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 65,
+        "ort_mitt_i": 61,
+        "x_coord": -37838.6,
+        "y_coord": 231689,
+        "pgem_name": "Blons",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "02",
+        "pgem_gesnr": 80102,
+        "einwohner": 335,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.65",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-46458.4609375, 231517.484375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 66,
+        "ort_mitt_i": 70,
+        "x_coord": -46458.5,
+        "y_coord": 231517,
+        "pgem_name": "Düns",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "02",
+        "pgem_gesnr": 80402,
+        "einwohner": 385,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.66",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-39082.05859375, 231256.59375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 67,
+        "ort_mitt_i": 63,
+        "x_coord": -39082.1,
+        "y_coord": 231257,
+        "pgem_name": "St. Gerold",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "21",
+        "pgem_gesnr": 80121,
+        "einwohner": 385,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.67",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-48072.2109375, 230984.9375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 68,
+        "ort_mitt_i": 72,
+        "x_coord": -48072.2,
+        "y_coord": 230985,
+        "pgem_name": "Röns",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "15",
+        "pgem_gesnr": 80415,
+        "einwohner": 289,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.68",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-53168.21875, 230961.109375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 69,
+        "ort_mitt_i": 71,
+        "x_coord": -53168.2,
+        "y_coord": 230961,
+        "pgem_name": "Frastanz",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "05",
+        "pgem_gesnr": 80405,
+        "einwohner": 6214,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.69",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-41702.48046875, 230848.625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 70,
+        "ort_mitt_i": 68,
+        "x_coord": -41702.5,
+        "y_coord": 230849,
+        "pgem_name": "Thüringerberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "27",
+        "pgem_gesnr": 80127,
+        "einwohner": 667,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.70",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-45975.78125, 230729.34375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 71,
+        "ort_mitt_i": 69,
+        "x_coord": -45975.8,
+        "y_coord": 230729,
+        "pgem_name": "Schnifis",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "19",
+        "pgem_gesnr": 80419,
+        "einwohner": 706,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.71",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-37646.69921875, 230285.125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 72,
+        "ort_mitt_i": 73,
+        "x_coord": -37646.7,
+        "y_coord": 230285,
+        "pgem_name": "Raggal",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "18",
+        "pgem_gesnr": 80118,
+        "einwohner": 863,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.72",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-14409.58007812, 230176.296875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 73,
+        "ort_mitt_i": 65,
+        "x_coord": -14409.6,
+        "y_coord": 230176,
+        "pgem_name": "Lech",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "13",
+        "pgem_gesnr": 80113,
+        "einwohner": 1466,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.73",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-47631.8984375, 229845.796875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 74,
+        "ort_mitt_i": 74,
+        "x_coord": -47631.9,
+        "y_coord": 229846,
+        "pgem_name": "Schlins",
+        "pvbg_nr": "8",
+        "pbez_nr": "04",
+        "pgem_nr": "18",
+        "pgem_gesnr": 80418,
+        "einwohner": 2043,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.74",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-42858.2890625, 229216.671875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 75,
+        "ort_mitt_i": 76,
+        "x_coord": -42858.3,
+        "y_coord": 229217,
+        "pgem_name": "Thüringen",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "26",
+        "pgem_gesnr": 80126,
+        "einwohner": 2157,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.75",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-44832.1796875, 228951.828125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 76,
+        "ort_mitt_i": 78,
+        "x_coord": -44832.2,
+        "y_coord": 228952,
+        "pgem_name": "Bludesch",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "04",
+        "pgem_gesnr": 80104,
+        "einwohner": 2158,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.76",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-41777.62109375, 228569.3125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 77,
+        "ort_mitt_i": 77,
+        "x_coord": -41777.6,
+        "y_coord": 228569,
+        "pgem_name": "Ludesch",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "15",
+        "pgem_gesnr": 80115,
+        "einwohner": 2805,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.77",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-47641.62890625, 227610.296875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 78,
+        "ort_mitt_i": 75,
+        "x_coord": -47641.6,
+        "y_coord": 227610,
+        "pgem_name": "Nenzing",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "16",
+        "pgem_gesnr": 80116,
+        "einwohner": 5652,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.78",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-40270, 226203.15625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 79,
+        "ort_mitt_i": 80,
+        "x_coord": -40270,
+        "y_coord": 226203,
+        "pgem_name": "Nüziders",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "17",
+        "pgem_gesnr": 80117,
+        "einwohner": 4478,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.79",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-38935.62890625, 224405.3125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 80,
+        "ort_mitt_i": 81,
+        "x_coord": -38935.6,
+        "y_coord": 224405,
+        "pgem_name": "Bludenz",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "03",
+        "pgem_gesnr": 80103,
+        "einwohner": 13701,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.80",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-40237.5703125, 223522.4375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 81,
+        "ort_mitt_i": 83,
+        "x_coord": -40237.6,
+        "y_coord": 223522,
+        "pgem_name": "Bürs",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "06",
+        "pgem_gesnr": 80106,
+        "einwohner": 3115,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.81",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-42161.41015625, 223120.96875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 82,
+        "ort_mitt_i": 84,
+        "x_coord": -42161.4,
+        "y_coord": 223121,
+        "pgem_name": "Bürserberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "07",
+        "pgem_gesnr": 80107,
+        "einwohner": 544,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.82",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-31546.390625, 222984.75]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 83,
+        "ort_mitt_i": 82,
+        "x_coord": -31546.4,
+        "y_coord": 222985,
+        "pgem_name": "Innerbraz",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "11",
+        "pgem_gesnr": 80111,
+        "einwohner": 975,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.83",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-36105.69140625, 222456.140625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 84,
+        "ort_mitt_i": 86,
+        "x_coord": -36105.7,
+        "y_coord": 222456,
+        "pgem_name": "Stallehr",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "25",
+        "pgem_gesnr": 80125,
+        "einwohner": 272,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.84",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-36630.55078125, 221476.65625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 85,
+        "ort_mitt_i": 87,
+        "x_coord": -36630.6,
+        "y_coord": 221477,
+        "pgem_name": "Lorüns",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "14",
+        "pgem_gesnr": 80114,
+        "einwohner": 265,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.85",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-18349.08984375, 221397.125]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 86,
+        "ort_mitt_i": 85,
+        "x_coord": -18349.1,
+        "y_coord": 221397,
+        "pgem_name": "Klösterle",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "12",
+        "pgem_gesnr": 80112,
+        "einwohner": 767,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.86",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-25655.34960937, 220670.609375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 87,
+        "ort_mitt_i": 79,
+        "x_coord": -25655.3,
+        "y_coord": 220671,
+        "pgem_name": "Dalaas",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "08",
+        "pgem_gesnr": 80108,
+        "einwohner": 1549,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.87",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-35632.4296875, 219658.375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 88,
+        "ort_mitt_i": 89,
+        "x_coord": -35632.4,
+        "y_coord": 219658,
+        "pgem_name": "St. Anton",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "19",
+        "pgem_gesnr": 80119,
+        "einwohner": 699,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.88",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-45172.48046875, 218513.265625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 89,
+        "ort_mitt_i": 90,
+        "x_coord": -45172.5,
+        "y_coord": 218513,
+        "pgem_name": "Brand",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "05",
+        "pgem_gesnr": 80105,
+        "einwohner": 709,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.89",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-35574.859375, 217457.484375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 90,
+        "ort_mitt_i": 91,
+        "x_coord": -35574.9,
+        "y_coord": 217457,
+        "pgem_name": "Vandans",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "29",
+        "pgem_gesnr": 80129,
+        "einwohner": 2638,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.90",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-27046.84960937, 217366.109375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 91,
+        "ort_mitt_i": 92,
+        "x_coord": -27046.8,
+        "y_coord": 217366,
+        "pgem_name": "Silbertal",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "23",
+        "pgem_gesnr": 80123,
+        "einwohner": 873,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.91",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-32277.00976562, 217102.140625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 92,
+        "ort_mitt_i": 88,
+        "x_coord": -32277,
+        "y_coord": 217102,
+        "pgem_name": "Bartholomäberg",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "01",
+        "pgem_gesnr": 80101,
+        "einwohner": 2233,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.92",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-31411.9609375, 215789.96875]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 93,
+        "ort_mitt_i": 93,
+        "x_coord": -31412,
+        "y_coord": 215790,
+        "pgem_name": "Schruns",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "22",
+        "pgem_gesnr": 80122,
+        "einwohner": 3715,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.93",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-32708.1796875, 215554.984375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 94,
+        "ort_mitt_i": 94,
+        "x_coord": -32708.2,
+        "y_coord": 215555,
+        "pgem_name": "Tschagguns",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "28",
+        "pgem_gesnr": 80128,
+        "einwohner": 2335,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.94",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-27286.56054687, 209109.90625]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 95,
+        "ort_mitt_i": 95,
+        "x_coord": -27286.6,
+        "y_coord": 209110,
+        "pgem_name": "St. Gallenkirch",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "20",
+        "pgem_gesnr": 80120,
+        "einwohner": 2268,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ortsmittelpunkte.95",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-23235.86914062, 205128.34375]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "area": 0,
+        "perimeter": 0,
+        "ort_mitt_": 96,
+        "ort_mitt_i": 96,
+        "x_coord": -23235.9,
+        "y_coord": 205128,
+        "pgem_name": "Gaschurn",
+        "pvbg_nr": "8",
+        "pbez_nr": "01",
+        "pgem_nr": "10",
+        "pgem_gesnr": 80110,
+        "einwohner": 1651,
+        "polygonid": 0,
+        "scale": 1,
+        "angle": 0
+      }
+    }
+  ],
+  "totalFeatures": 96,
+  "numberMatched": 96,
+  "numberReturned": 96,
+  "timeStamp": "2025-06-22T19:20:09.004Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::31254"
+    }
+  }
+}
