@@ -33,25 +33,39 @@ figure {
     justify-content: center;
     gap: 100px;
     flex-wrap: wrap; 
-    margin: auto;
+    margin-top: 2em;
 }
 
-figure img {
-    width: 100px;
+.team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 220px;
+    padding: 1em;
+}
+
+.team-member img {
+    width: 120px;
     height: auto;
-    border-radius: 100px;
+    border-radius: 50%; /* Makes image circular */
+    margin-bottom: 0.5em;
 }
 
-figcaption {
-  font-weight: bold;
-  margin: auto;
-  text-align: center;
+.team-member figcaption {
+    font-weight: bold;
+    margin-top: 0.5em;
+}
+
+.team-member ul {
+    text-align: left;
+    padding-left: 1em;
+    margin-top: 0.5em;
 }
 
 h3 {
-    margin:center;
-    justify-content:center;
     text-align: center;
+    margin-top: 2em;
 }
 
 .etappen-button {
