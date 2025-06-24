@@ -81,11 +81,6 @@ async function loadShops(url) { // funktion wird definiert
 
 loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
 
-// Maßstab
-L.control.scale({
-    imperial: false,
-}).addTo(map);
-
 //Strecke Gesamt
 let controlElevation = L.control.elevation({
     theme: "bike-vorarlberg",

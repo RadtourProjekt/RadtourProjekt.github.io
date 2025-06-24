@@ -36,7 +36,9 @@
      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js" integrity="sha512-OFs3W4DIZ5ZkrDhBFtsCP6JXtMEDGmhl0QPlmWYBJay40TT1n3gt2Xuw8Pf/iezgW9CdabjkNChRqozl/YADmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" integrity="sha512-6ZCLMiYwTeli2rVh3XAPxy3YoR5fVxGdH/pz+KMCzRY2M65Emgkw00Yqmhh8qLGeYQ3LbVZGdmOX9KUjSKr0TA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" integrity="sha512-mQ77VzAakzdpWdgfL/lM1ksNy89uFgibRQANsNneSTMD/bj0Y/8+94XMwYhnbzx8eki2hrbPpDm0vD0CiT2lcg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
- 
+ <!-- Scotty  -->
+
+ <script src="https://fahrplan.oebb.at/webapp/staticfiles/hafas-widget-core.1.0.0.js?language=de_DE"></script>
 
     <!-- eigene Stile und Hauptskript -->
     <link rel="stylesheet" href="main.css" />
@@ -95,6 +97,7 @@
     <button class="tablinks" onclick="openCity(event, 'Beschreibung')">Beschreibung</button>
     <button class="tablinks" onclick="openCity(event, 'Anreise')">Anreise</button>
     <button class="tablinks" onclick="openCity(event, 'Unterkünfte')">Unterkünfte</button>
+    <button class="tablinks" onclick="openCity(event, 'Verpflegung')">Verpflegung</button>
   </div>
   
   <!-- Tab content -->
@@ -107,13 +110,20 @@
   </div>
   
   <div id="Anreise" class="tabcontent">
-    <h3>Anreise</h3>
-    <p>Paris is the capital of France.</p>
+    <h3>Zufahrt mit öffentlichen Verkehrsmitteln</h3>
+            <div data-hfs-widget="true" data-hfs-widget-cfg-colorscheme="light" data-hfs-widget-tp="true"
+                data-hfs-widget-tp-postform="newtab" data-hfs-widget-tp-autosearch="true"
+                data-hfs-widget-tp-arr="Dornbirn Bahnhof"
+                data-hfs-widget-tp-enquiry="false"></div>
   </div>
   
   <div id="Unterkünfte" class="tabcontent">
     <h3>Unterkünfte</h3>
     <p>Tokyo is the capital of Japan.</p>
+  </div>
+  <div id="Verpflegung" class="tabcontent">
+    <h3>Verpflegung</h3>
+    <p>Entlang der Strecke befinden dich verschiedene Einkaufszentren und Shops. Auf der Karte ist der Standort der Läden zu erkennen.</p>
   </div>
 
 
