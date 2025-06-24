@@ -95,3 +95,13 @@ div>p {
 .bikers {
     margin-right: 125%;
 }
+
+.concept {
+    padding: 0.75em 4.5em;
+    font-size: 1.1rem;
+    background-color: lightblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.2s ease;
+}
