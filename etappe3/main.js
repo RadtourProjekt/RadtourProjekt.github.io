@@ -84,7 +84,7 @@ loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
 
 //Etappe 3
 let controlElevation = L.control.elevation({
-    theme: "bike-tirol",
+    theme: "bike-vorarlberg",
     time: false,
     elevationDiv: "#profile",
     height: 300,
