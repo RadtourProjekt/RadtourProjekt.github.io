@@ -104,7 +104,7 @@ async function loadCampings(url) { // funktion wird definiert
             console.log(feature.properties)
             layer.bindPopup(`
                 <h4> ${feature.properties.name}</h4>
-                <div> ${"Tel.: ", feature.properties.tel}
+                <div>Tel.: ${feature.properties.tel}</div>
                 `);
         }
     }).addTo(overlays.campings); // mit leaflet in karte hinzufügen!
