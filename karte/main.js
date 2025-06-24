@@ -22,6 +22,7 @@ let eGrundkarteTirol = {
     })
 }
 
+
 // / Layer control mit eGrundkarte Tirol und Standardlayern
 L.control.layers({
     "eGrundkarte Tirol Sommer": L.layerGroup([
@@ -35,7 +36,7 @@ L.control.layers({
     ]),
     "OpenStreetMap": L.tileLayer.provider("OpenStreetMap.Mapnik"),
     "Esri WorldImagery": L.tileLayer.provider("Esri.WorldImagery"),
-})
+}).addTo(map);
 
 // Maßstab
 L.control.scale({
