@@ -24,10 +24,11 @@ let eGrundkarteTirol = {
 
 // Overlays definieren
 let overlays = {
+    campings: L.featureGroup().addTo(map),
     shops: L.markerClusterGroup({
         disableClusteringAtZoom: 17
-    }).addTo(map), // .addto(map) um layer default zu checken
-    campings: L.featureGroup().addTo(map)
+    }), // .addto(map) um layer default zu checken
+    
 };
 
 // / Layer control mit eGrundkarte Tirol und Standardlayern
@@ -45,8 +46,9 @@ L.control.layers({
     "OpenStreetMap": L.tileLayer.provider("OpenStreetMap.Mapnik"),
     "Esri WorldImagery": L.tileLayer.provider("Esri.WorldImagery"),
 }, {
-    "Shops": overlays.shops, // .addto(map) um layer default zu checken
     "Campingplätze": overlays.campings,
+    "Shops": overlays.shops, // .addto(map) um layer default zu checken
+    
 }).addTo(map);
 
 // Maßstab

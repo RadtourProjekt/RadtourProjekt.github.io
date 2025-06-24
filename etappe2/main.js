@@ -26,7 +26,7 @@ let eGrundkarteTirol = {
 let overlays = {
     shops: L.markerClusterGroup({
         disableClusteringAtZoom: 17
-    }).addTo(map), // .addto(map) um layer default zu checken
+    }), // .addto(map) um layer default zu checken
     campings: L.featureGroup().addTo(map)
 };
 
@@ -45,8 +45,9 @@ L.control.layers({
     "OpenStreetMap": L.tileLayer.provider("OpenStreetMap.Mapnik"),
     "Esri WorldImagery": L.tileLayer.provider("Esri.WorldImagery"),
 }, {
-    "Shops": overlays.shops, // .addto(map) um layer default zu checken
     "Campingplätze": overlays.campings,
+    "Shops": overlays.shops, // .addto(map) um layer default zu checken
+    
 }).addTo(map);
 
 // Maßstab
