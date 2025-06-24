@@ -13,10 +13,11 @@
 }
 .etappen-links {
     margin: 1.5em 0;
-    margin-top: -3em;
+    margin-top: 2em;
     display: flex;
     justify-content: flex-end;
     gap: 1em;
+    justify-content: flex-start;
 }
 
 .etappen-button {
