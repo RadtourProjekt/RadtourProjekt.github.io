@@ -35,7 +35,7 @@ figure {
     flex-wrap: wrap; 
     margin-top: 2em;
 }
-
+/*KI_Begin */
 .team-member {
     display: flex;
     flex-direction: column;
@@ -48,7 +48,7 @@ figure {
 .team-member img {
     width: 120px;
     height: auto;
-    border-radius: 50%; /* Makes image circular */
+    border-radius: 50%;
     margin-bottom: 0.5em;
 }
 
@@ -62,7 +62,7 @@ figure {
     padding-left: 1em;
     margin-top: 0.5em;
 }
-
+/*KI_End */
 h3 {
     text-align: center;
     margin-top: 2em;
