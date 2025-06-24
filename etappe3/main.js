@@ -27,6 +27,7 @@ let overlays = {
     shops: L.markerClusterGroup({
         disableClusteringAtZoom: 17
     }).addTo(map), // .addto(map) um layer default zu checken
+    campings: L.featureGroup().addTo(map)
 };
 
 // / Layer control mit eGrundkarte Tirol und Standardlayern
@@ -45,6 +46,7 @@ L.control.layers({
     "Esri WorldImagery": L.tileLayer.provider("Esri.WorldImagery"),
 }, {
     "Shops": overlays.shops, // .addto(map) um layer default zu checken
+    "Campingplätze": overlays.campings,
 }).addTo(map);
 
 // Maßstab
@@ -80,8 +82,37 @@ async function loadShops(url) { // funktion wird definiert
     }).addTo(overlays.shops); // mit leaflet in karte hinzufügen!
 };
 
-loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
+// Campingplätze Vorarlberg
+async function loadCampings(url) { // funktion wird definiert
+    //console.log(url);
 
+    let response = await fetch(url); // anfrage an server
+    let jsondata = await response.json(); // in variable schreiben
+    //console.log(jsondata);
+
+    L.geoJSON(jsondata, {
+        attribution: "Datenquelle: <a href='https://www.campingclub.at/campingplaetze/vorarlberg'>Camping Club</a>",
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+                icon: L.icon({
+                    iconUrl: `../icons/camping.png`,
+                    iconAnchor: [16, 37],
+                    popupAnchor: [0, -37] // popup um Bildhöhe nach oben verschieben
+                })
+            });
+        },
+        onEachFeature: function (feature, layer) {
+            console.log(feature.properties)
+            layer.bindPopup(`
+                <h4> ${feature.properties.name}</h4>
+                <div> ${"Tel.: ", feature.properties.tel}
+                `);
+        }
+    }).addTo(overlays.campings); // mit leaflet in karte hinzufügen!
+};
+
+loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
+loadCampings("https://RadtourProjekt.github.io/data/campings.geojson");
 //Etappe 3
 let controlElevation = L.control.elevation({
     theme: "bike-vorarlberg",

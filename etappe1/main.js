@@ -111,7 +111,7 @@ async function loadCampings(url) { // funktion wird definiert
 };
 
 loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
-loadcampings("https://RadtourProjekt.github.io/data/campings.geojson");
+loadCampings("https://RadtourProjekt.github.io/data/campings.geojson");
 
 
 //Etappe 1
