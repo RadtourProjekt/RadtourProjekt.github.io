@@ -4,7 +4,7 @@ let vorarl = {
 };
 
 let map = L.map("map", {
-    maxZoom:19
+    maxZoom: 19
 }).setView([vorarl.lat, vorarl.lng],13);
 
 // WMTS Hintergrundlayer der eGrundkarte Tirol
