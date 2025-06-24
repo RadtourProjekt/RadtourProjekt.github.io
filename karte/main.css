@@ -28,17 +28,17 @@ article {
     border-bottom: 1px solid black;
 }
 
-.bike-vorarlberg{ 
+.bike-vorarlberg {
     --ele-line: black;
-    --ele-bg: white ;
+    --ele-bg: white;
     --ele-area: transparent;
 
 }
 
-#profile{
+#profile {
     margin: -top 0.3em;
     border: 1px solid gray;
-    
+
 }
 
 .etappen-links {
@@ -47,7 +47,7 @@ article {
     display: flex;
     justify-content: flex-end;
     gap: 1em;
-    justify-content: flex-start; 
+    justify-content: flex-start;
 }
 
 .etappen-button {
@@ -59,13 +59,13 @@ article {
     border-radius: 8px;
     transition: background-color 0.2s ease;
 
-    
+
 }
 
 .etappen-button-start {
     padding: 0.75em 4.5em;
     font-size: 1.1rem;
-    background-color: purple;
+    background-color: blue;
     color: white;
     text-decoration: none;
     border-radius: 8px;
@@ -95,10 +95,10 @@ article {
     border: 1px solid #ccc;
     background-color: #f1f1f1;
     margin-bottom: 1em;
-  }
-  
-  /* Style the buttons that are used to open the tab content */
-  .tab button {
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
     background-color: inherit;
     float: left;
     border: none;
@@ -106,22 +106,22 @@ article {
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
-  }
-  
-  /* Change background color of buttons on hover */
-  .tab button:hover {
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
     background-color: #ddd;
-  }
-  
-  /* Create an active/current tablink class */
-  .tab button.active {
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
     background-color: #ccc;
-  }
-  
-  /* Style the tab content */
-  .tabcontent {
+}
+
+/* Style the tab content */
+.tabcontent {
     display: none;
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
-  }
+}

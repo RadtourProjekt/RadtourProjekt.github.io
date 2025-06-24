@@ -23,14 +23,14 @@
     <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.css" />
     <script src="https://unpkg.com/@raruto/leaflet-elevation/dist/leaflet-elevation.js"></script>
 
-     <!-- leaflet-mini map -->
+    <!-- leaflet-mini map -->
 
     <script src="https://cdn.jsdelivr.net/npm/leaflet-minimap@3.6.1/dist/Control.MiniMap.min.js"
         integrity="sha256-Hb/f1FMaLV+Qn6KSYbc92GxB2bcKp7/efxNeiduEo3g=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-minimap@3.6.1/dist/Control.MiniMap.min.css"
         integrity="sha256-p0ab5p0FrFs9Tz4OZgifAvIP+Rd0VFUEbNYjVXVeh9w=" crossorigin="anonymous">
 
-         <!-- leaflet-fullscreen -->
+    <!-- leaflet-fullscreen -->
     <script src="https://cdn.jsdelivr.net/npm/leaflet-fullscreen@1.0.2/dist/Leaflet.fullscreen.min.js"
         integrity="sha256-RQN1bmEq/28pzVG8Csu34O677VNj5/1xl1wUGyDjMuo=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-fullscreen@1.0.2/dist/leaflet.fullscreen.min.css">
@@ -46,7 +46,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css"
         integrity="sha512-mQ77VzAakzdpWdgfL/lM1ksNy89uFgibRQANsNneSTMD/bj0Y/8+94XMwYhnbzx8eki2hrbPpDm0vD0CiT2lcg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-   
+
 
     <!-- eigene Stile und Hauptskript -->
     <link rel="stylesheet" href="main.css" />
@@ -57,7 +57,7 @@
 <body>
     <main>
         <header>
-            <h2><i class="fa-solid fa-bicycle"> </i> Übersicht Tour</h2>
+            <h2><i class="fa-solid fa-bicycle"> </i> Übersicht Tour Rund durch Vorarlberg</h2>
 
             <nav>
                 <i class="fab fa-github"></i> <a
@@ -73,6 +73,7 @@
                 <a href="../etappe2/index.html" class="etappen-button" title="Etappe 2">Etappe 2</a>
                 <a href="../etappe3/index.html" class="etappen-button" title="Etappe 3">Etappe 3</a>
             </div>
+            <h3><i class="fa-solid fa-circle-info"></i> Tourendaten</h3>
 
 
             <div class="summary">
@@ -97,10 +98,7 @@
                 <div class="summary-badge" title="Schwierigkeitsgrad">
                     <i class="fa-solid fa-heart-pulse"></i> schwer
                 </div>
-                <div class="summary-badge" title="Download">
-                    <i class="fa-solid fa-download"></i>
-                    <a href="data/gesamtetappe.gpx" style="text-decoration: none"> Download GPX</a>
-                </div>
+
 
                 <!-- Tab links -->
                 <div class="tab">
@@ -121,18 +119,14 @@
                         Dornbirn.</p>
                 </div>
 
-                 <!-- KI_BEGIN --><div id="Anreise" class="tabcontent">
+                <!-- KI_BEGIN -->
+                <div id="Anreise" class="tabcontent">
                     <h3>Zufahrt mit öffentlichen Verkehrsmitteln</h3>
-                    <iframe
-                      src="https://fahrplan.oebb.at/webapp/?style=widget&arr=Dornbirn%20Bahnhof"
-                      width="100%"
-                      height="400"
-                      style="border: none"
-                      loading="lazy"
-                      title="ÖBB Fahrplan Widget">
+                    <iframe src="https://fahrplan.oebb.at/webapp/?style=widget&arr=Dornbirn%20Bahnhof" width="100%"
+                        height="400" style="border: none" loading="lazy" title="ÖBB Fahrplan Widget">
                     </iframe>
-                  </div>
-                    <!-- KI_END --> 
+                </div>
+                <!-- KI_END -->
 
                 <div id="Verpflegung" class="tabcontent">
                     <h3>Verpflegung</h3>
@@ -145,36 +139,13 @@
                 <div id="map" style="height: 600px;"></div>
                 <div id="profile"></div>
 
-                <h3>Streckenbeschreibung</h3>
-                <p>Leicht ansteigend verläuft der Beginn der Etappe (vorbei an der Kaiserklamm) in östlicher Richtung
-                    (Radweg Nr.326). Nach ca. 7 Kilometern kommt eine größere Wegkreuzung, bei der man rechts abzweigt.
-                    Von
-                    nun an hält man sich bis zum Thiersee an die Radwegweiser Nr. 327 (Thierseerunde). Bei Erreichen der
-                    Hauptstraße in Thiersee (2,5 Stunden ab Kaiserhaus) zweigt man rechts ab, um nach 400 Metern
-                    wiederum
-                    links in einen asphaltierten Weg („Lechen“) einzubiegen. Von nun an hält man sich an die Wegweiser
-                    Richtung „Wacht“. Nach der Einkehr im Gasthaus Wachtl radelt man den Schotterweg hinunter bis zur
-                    Holzbrücke über die Thierseer Ache und am alten Bahnhof vorbei über die Staatsgrenze. Immer auf der
-                    Hauptstraße fährt man nun nach Kiefersfelden bis man kurz vor dem Zentrum beim Schild „Zum
-                    Schaupenwirt“
-                    rechts abzweigt. Nun geht’s durchs Wohngebiet, beim Sportplatz kurz nach rechts und gleich wieder
-                    links
-                    in einen schmalen Fahrweg und über die Brücke des Kieferbachs. Nach der Brücke fährt man links
-                    weiter,
-                    überquert nach ein paar hundert Metern die Hauptstraße, und es geht in gleicher Richtung weiter, bis
-                    man
-                    zur Autobahnbrücke über den Inn gelangt. Diese wird unterquert und man erreicht sofort das
-                    Etappenziel
-                    am Innufer.</p>
 
         </article>
         <footer>
             <strong>Datenquellen:</strong>
             <nav>
-                <a href="https://www.wildganz.com/radfernweg-aut/bike-trail-tirol-etappe-8">Etappe 8: Achensee -
-                    Kaiserhaus</a>
-                <a href="https://www.data.gv.at/katalog/de/dataset/land-tirol_biketrailtirol">Opendata Bike Trail
-                    Tirol</a> |
+                <a href="https://www.outdooractive.com/de/">Outdooractive</a>
+                <a href="https://www.data.gv.at/suche/?organisation=land-vorarlberg">Opendata Land Vorarlberg</a> |
                 <a href="https://www.data.gv.at/katalog/de/dataset/land-tirol_elektronischekartetirol">eGrundkarte
                     Tirol</a>
             </nav>
