@@ -103,5 +103,7 @@ div>p {
     color: white;
     text-decoration: none;
     border-radius: 8px;
+    width: 10em ;
     transition: background-color 0.2s ease;
+    margin:auto;
 }
