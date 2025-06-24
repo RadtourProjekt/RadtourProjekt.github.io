@@ -93,7 +93,8 @@ div>p {
 }
 
 .bikers {
-    margin-right: 125%;
+    max-width:1000px;
+    max-height: 100%;
 }
 
 .concept {
@@ -109,5 +110,16 @@ div>p {
 }
 
 .bikers_text {
-    padding:4em
+    font-size:medium;
+    float:left;
+    color:aliceblue;
+    width: 15em;
+    margin:center;
+}
+
+.container_above {
+    display:grid;
+    align-items:start;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
 }
