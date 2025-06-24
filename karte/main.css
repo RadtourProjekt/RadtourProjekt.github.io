@@ -68,6 +68,7 @@ article {
     text-decoration: none;
     border-radius: 8px;
     transition: background-color 0.2s ease;
+    margin-right: 8px;
 }
 
 
@@ -78,4 +79,9 @@ article {
     border: 1px solid silver;
     border-radius: 10px;
     margin-right: 0.5em;
+}
+
+.etappen-button-start i {
+    margin-right: 8px;
+    vertical-align: middle;
 }
