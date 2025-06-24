@@ -73,12 +73,6 @@ async function loadShops(url) { // funktion wird definiert
                 })
             });
         },
-        onEachFeature: function (feature, layer) {
-            console.log(feature.properties)
-            layer.bindPopup(`
-                <h4> ${feature.properties.legende}</h4>
-                `);
-        }
     }).addTo(overlays.shops); // mit leaflet in karte hinzufügen!
 };
 
