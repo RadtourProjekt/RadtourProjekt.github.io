@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+main {
+    max-width: 1200px;
+    margin: auto;
+}
+
 .bike-vorarlberg{ 
     --ele-line: black;
     --ele-bg: white ;
@@ -8,7 +19,6 @@
 #profile{
     margin: -top 0.3em;
     border: 1px solid gray;
-    
 }
 
 .etappen-links {

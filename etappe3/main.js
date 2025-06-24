@@ -24,9 +24,11 @@ let eGrundkarteTirol = {
 
 // Overlays definieren
 let overlays = {
+    campings: L.featureGroup().addTo(map),
     shops: L.markerClusterGroup({
         disableClusteringAtZoom: 17
-    }).addTo(map), // .addto(map) um layer default zu checken
+    }), // .addto(map) um layer default zu checken
+    
 };
 
 // / Layer control mit eGrundkarte Tirol und Standardlayern
@@ -44,7 +46,9 @@ L.control.layers({
     "OpenStreetMap": L.tileLayer.provider("OpenStreetMap.Mapnik"),
     "Esri WorldImagery": L.tileLayer.provider("Esri.WorldImagery"),
 }, {
+    "Campingplätze": overlays.campings,
     "Shops": overlays.shops, // .addto(map) um layer default zu checken
+    
 }).addTo(map);
 
 // Maßstab
@@ -71,16 +75,50 @@ async function loadShops(url) { // funktion wird definiert
                 })
             });
         },
-        onEachFeature: function (feature, layer) {
-            console.log(feature.properties)
-            layer.bindPopup(`
-                <h4> ${feature.properties.legende}</h4>
-                `);
-        }
     }).addTo(overlays.shops); // mit leaflet in karte hinzufügen!
 };
 
+// Campingplätze Vorarlberg
+async function loadCampings(url) { // funktion wird definiert
+    //console.log(url);
+
+    let response = await fetch(url); // anfrage an server
+    let jsondata = await response.json(); // in variable schreiben
+    //console.log(jsondata);
+
+    L.geoJSON(jsondata, {
+        attribution: "Datenquelle: <a href='https://www.campingclub.at/campingplaetze/vorarlberg'>Camping Club</a>",
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+                icon: L.icon({
+                    iconUrl: `../icons/camping.png`,
+                    iconAnchor: [16, 37],
+                    popupAnchor: [0, -37] // popup um Bildhöhe nach oben verschieben
+                })
+            });
+        },
+        onEachFeature: function (feature, layer) {
+            console.log(feature.properties)
+            layer.bindPopup(`
+                <h4> ${feature.properties.name}</h4>
+                <div>Tel.: ${feature.properties.tel}</div>
+                `);
+        }
+    }).addTo(overlays.campings); // mit leaflet in karte hinzufügen!
+};
+
 loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
+loadCampings("https://RadtourProjekt.github.io/data/campings.geojson");
+
+// LocateControl hinzufügen
+L.control.locate({
+    position: "topright",
+    drawCircle: false,
+    flyTo: true,
+    strings: {
+        title: "Standort anzeigen"
+    },
+}).addTo(map);
 
 //Etappe 3
 let controlElevation = L.control.elevation({
