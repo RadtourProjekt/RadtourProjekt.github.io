@@ -52,4 +52,13 @@ let controlElevation = L.control.elevation({
 }).addTo(map);
 controlElevation.load("../data/gesamtetappe.gpx");
 
-//Etappennavigation für die 3 Einzeletappen mit Pulldownmenü
+//Minimap
+var gkTirol = new L.TileLayer("https://wmts.kartetirol.at/gdi_summer/{z}/{x}/{y}.png");
+var miniMap = new L.Control.MiniMap(gkTirol, {
+    toogleDisplay: true
+}).addTo(map);
+
+
+//fullscreen
+const fullScreenControl = L.control.fullscreen();
+fullScreenControl.addTo(map)
