@@ -107,6 +107,17 @@ async function loadCampings(url) { // funktion wird definiert
 
 loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
 loadCampings("https://RadtourProjekt.github.io/data/campings.geojson");
+
+// LocateControl hinzufügen
+L.control.locate({
+    position: "topright",
+    drawCircle: false,
+    flyTo: true,
+    strings: {
+        title: "Standort anzeigen"
+    },
+}).addTo(map);
+
 //Etappe 2 Gesamt
 let controlElevation = L.control.elevation({
     theme: "bike-vorarlberg",
