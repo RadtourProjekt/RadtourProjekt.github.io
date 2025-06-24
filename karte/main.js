@@ -26,6 +26,9 @@ let eGrundkarteTirol = {
 let overlays = {
     shops: L.markerClusterGroup({
         disableClusteringAtZoom: 17
+    }).addTo(map),
+    seen: L.markerClusterGroup({
+        disableClusteringAtZoom: 17
     }).addTo(map), // .addto(map) um layer default zu checken
 };
 
@@ -44,6 +47,7 @@ L.control.layers({
     "Esri WorldImagery": L.tileLayer.provider("Esri.WorldImagery"),
 }, {
     "Shops": overlays.shops, // .addto(map) um layer default zu checken
+    "Seen": overlays.seen,
 }).addTo(map);
 
 // Maßstab
@@ -80,6 +84,37 @@ async function loadShops(url) { // funktion wird definiert
 };
 
 loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
+
+// Seen Vorarlberg
+async function loadSeen(url) { // funktion wird definiert
+    //console.log(url);
+
+    let response = await fetch(url); // anfrage an server
+    let jsondata = await response.json(); // in variable schreiben
+    //console.log(jsondata);
+
+    L.geoJSON(jsondata, {
+        attribution: "Datenquelle: <a href='https://data.gv.at'>Land Vorarlberg</a>",
+        pointToLayer: function (feature, latlng) {
+            return L.marker(latlng, {
+                icon: L.icon({
+                    iconUrl: `../icons/river.png`,
+                    iconAnchor: [16, 37],
+                    popupAnchor: [0, -37] // popup um Bildhöhe nach oben verschieben
+                })
+            });
+        },
+        onEachFeature: function (feature, layer) {
+            console.log(feature.properties)
+            layer.bindPopup(`
+                <h4> ${feature.properties.legende}</h4>
+                `);
+        }
+    }).addTo(overlays.seen); // mit leaflet in karte hinzufügen!
+};
+
+loadShops("https://RadtourProjekt.github.io/data/Einkaufszentren.geojson");
+loadSeen("https://RadtourProjekt.github.io/data/seen.geojson");
 
 //Strecke Gesamt
 let controlElevation = L.control.elevation({
